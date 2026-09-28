@@ -13,7 +13,6 @@
 | Lab | Program | Source Code | Output |
 |---|---|---|---|
 | 0 | Array Insertion and deletion | `main.c` | `result.png` |
-| 2 | Array Deletion | `array_deletion.c` | `output.png` |
-| 3 | Stack Implementation | `stack.c` | `output.png` |
-| 4 | Queue Implementation | `queue.c` | `output.png` |
-| 5 | Linked List | `linked_list.c` | `output.png` |
+| 0 | Binary Search | `binary_search.c` | `result.png` |
+| 0 | Linear Search | `linear_searchg.c` | `result.png` |
+
