@@ -12,7 +12,7 @@
 
 | Lab | Program | Source Code | Output |
 |---|---|---|---|
-| 1 | Array Insertion | `array_insertion.c` | `output.png` |
+| 0 | Array Insertion and deletion | `main.c` | `result.png` |
 | 2 | Array Deletion | `array_deletion.c` | `output.png` |
 | 3 | Stack Implementation | `stack.c` | `output.png` |
 | 4 | Queue Implementation | `queue.c` | `output.png` |
