@@ -15,4 +15,5 @@
 | 0 | Array Insertion and deletion | `main.c` | `result.png` |
 | 0 | Binary Search | `binary_search.c` | `result.png` |
 | 0 | Linear Search | `linear_searchg.c` | `result.png` |
-
+| 1 | Stack | 'stack.c' | 'result.png'|
+| 1 | Infix to Postfix | 'infix_postfix.c'| 'result.png' |
