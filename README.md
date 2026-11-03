@@ -22,6 +22,8 @@
 | 02 | LeetCode: Valid Parentheses | — | `Leetcode.png` |
 | 03 | Singly linked-list insertion | `Singly_Linked_List.c` | `result.png` |
 | 03 | Singly linked-list deletion | `Singly_Linked_List_Deletion.c` | `result.png` |
+| 03 | LeetCode 707: Design Linked List | — | `result.png` |
+| 03 | LeetCode 328: Odd Even Linked List | — | `result.png` |
 
 Each C program prints the student name, USN, and the relevant commit date from the original repository history in `main()`.
 
