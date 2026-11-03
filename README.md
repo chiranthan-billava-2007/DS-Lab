@@ -5,7 +5,7 @@
 **Name:** Chiranthan  
 **USN:** 1WA25CS061  
 **Branch:** CSE  
-**Semester:** 2nd Semester  
+**Semester:** 3rd Semester  
 **College:** BMS College of Engineering  
 
 ## List of Programs
