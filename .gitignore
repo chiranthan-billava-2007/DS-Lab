@@ -3,6 +3,7 @@
 
 # Keep the ignore file itself
 !.gitignore
+!README.md
 
 # Allow repository directories to be traversed
 !DS-Lab/
