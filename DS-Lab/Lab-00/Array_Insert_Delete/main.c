@@ -65,6 +65,7 @@ void display(int arr[], int n)
 
 int main()
 {
+    printf("Chiranthan    1WA25CS061    2026-09-28\n");
     int capacity = 100;
     int arr[100];
     int n, position, element;

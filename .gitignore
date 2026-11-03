@@ -1,0 +1,13 @@
+# Ignore everything by default
+*
+
+# Keep the ignore file itself
+!.gitignore
+
+# Allow repository directories to be traversed
+!DS-Lab/
+!DS-Lab/**/
+
+# Keep C source code and PNG result images
+!DS-Lab/**/*.c
+!DS-Lab/**/*.png

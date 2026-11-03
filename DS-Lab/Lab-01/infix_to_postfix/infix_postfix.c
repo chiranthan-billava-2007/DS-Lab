@@ -29,6 +29,7 @@ int precedence(char c)
 
 void displayIteration(int iteration, char c, char postfix[], int j)
 {
+    (void)j;
     int i;
 
     printf("%-10d %-10c ", iteration, c);
@@ -126,6 +127,7 @@ void infixToPostfix(char infix[], char postfix[])
 
 int main()
 {
+    printf("Chiranthan    1WA25CS061    2026-09-29\n");
     char infix[MAX], postfix[MAX];
 
     printf("Enter infix expression: ");

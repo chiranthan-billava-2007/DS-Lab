@@ -15,6 +15,7 @@ int linearSearch(int arr[], int n, int key)
 
 int main()
 {
+    printf("Chiranthan    1WA25CS061    2026-09-28\n");
     int arr[100];
     int n, key, result;
 

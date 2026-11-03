@@ -76,6 +76,7 @@ void display()
 
 int main()
 {
+    printf("Chiranthan    1WA25CS061    2026-10-06\n");
     int choice;
 
     while (1)
