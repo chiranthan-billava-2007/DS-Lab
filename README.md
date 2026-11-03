@@ -13,17 +13,17 @@
 | Lab | Program | Source | Result |
 |---|---|---|---|
 | 00 | Array insertion and deletion | `main.c` | `result.png` |
-| 00 | Binary search | `Binary_search.c` | `result.png` |
-| 00 | Linear search | `linear_search.c` | `Result.png` |
+|    | Binary search | `Binary_search.c` | `result.png` |
+|    | Linear search | `linear_search.c` | `Result.png` |
 | 01 | Stack | `stack.c` | `result.png` |
-| 01 | Infix to postfix | `infix_postfix.c` | `result.png` |
+|  | Infix to postfix | `infix_postfix.c` | `result.png` |
 | 02 | Circular queue | `Circular_Queue.c` | `result.png` |
-| 02 | Linear queue | `Linear_Queue.c` | `result.png` |
-| 02 | LeetCode: Valid Parentheses | — | `Leetcode.png` |
+|  | Linear queue | `Linear_Queue.c` | `result.png` |
+|  | LeetCode: Valid Parentheses | — | `Leetcode.png` |
 | 03 | Singly linked-list insertion | `Singly_Linked_List.c` | `result.png` |
-| 03 | Singly linked-list deletion | `Singly_Linked_List_Deletion.c` | `result.png` |
-| 03 | LeetCode 707: Design Linked List | — | `result.png` |
-| 03 | LeetCode 328: Odd Even Linked List | — | `result.png` |
+|  | Singly linked-list deletion | `Singly_Linked_List_Deletion.c` | `result.png` |
+|  | LeetCode 707: Design Linked List | — | `result.png` |
+|  | LeetCode 328: Odd Even Linked List | — | `result.png` |
 
 Each C program prints the student name, USN, and the relevant commit date from the original repository history in `main()`.
 
